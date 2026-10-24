@@ -1,0 +1,40 @@
+Manifest-Version: 1.0
+Built-By: Signflinger
+Created-By: Android Gradle 8.6.1
+
+Name: AndroidManifest.xml
+SHA-256-Digest: iaM+c47LgDeHBnL697YhYFxI8kMtd+ACrUdsZ5tdOvM=
+
+Name: META-INF/com/android/build/gradle/app-metadata.properties
+SHA-256-Digest: 5b7NnKVHLe2yV4/dvvxlKBxFQ6tjoAGCf3rX67hz0AU=
+
+Name: assets/index.html
+SHA-256-Digest: b74gM0XxtTOnNL/XD2UlnAQ06N0g/uZ9vFuCbgT1qxE=
+
+Name: classes.dex
+SHA-256-Digest: Tc4XbIoYmruLOSdk0JF+QYCFGTFxtepeJunMZAklB8c=
+
+Name: classes2.dex
+SHA-256-Digest: 8EtJHBRA5XHLfENIkC+KUSibUfiGlpuqVuJZVNExaL0=
+
+Name: res/drawable-nodpi-v4/egramseva_logo.jpg
+SHA-256-Digest: ZwncLVKrnKKNN272Guadr0aTC45HqkFUx2lMYQJOj2g=
+
+Name: res/drawable/ic_launcher_foreground.xml
+SHA-256-Digest: Yf1/Fk896388GQuGC1UsP+njcYzrtblZKjInN7l6pIE=
+
+Name: res/mipmap-anydpi-v21/ic_launcher.xml
+SHA-256-Digest: J8DSu2mBRou+QjVIByVPjBAOWYQw3sp0ZqhfGAxfghE=
+
+Name: res/mipmap-anydpi-v21/ic_launcher_round.xml
+SHA-256-Digest: J8DSu2mBRou+QjVIByVPjBAOWYQw3sp0ZqhfGAxfghE=
+
+Name: res/mipmap-anydpi-v26/ic_launcher.xml
+SHA-256-Digest: 9zQqmKujS1eqpukxNpEIXSlfQYxedS+54/wyoG0gQhU=
+
+Name: res/mipmap-anydpi-v26/ic_launcher_round.xml
+SHA-256-Digest: 9zQqmKujS1eqpukxNpEIXSlfQYxedS+54/wyoG0gQhU=
+
+Name: resources.arsc
+SHA-256-Digest: j2zReJ+C6C+K45y5mwn1kh5+G+JBWao/TA3HBPlI6Qw=
+

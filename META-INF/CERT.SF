@@ -1,0 +1,41 @@
+Signature-Version: 1.0
+Created-By: Android Gradle 8.6.1
+SHA-256-Digest-Manifest: Ll9PBvHm0uF4Dy4TotxfE58TapBuiV1DSg1t/ptDhgs=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA-256-Digest: BvC56HNM6vgmiNJL3dqntSep2SKBq30GqKOdlaYz/Lg=
+
+Name: META-INF/com/android/build/gradle/app-metadata.properties
+SHA-256-Digest: JR1r17iSjjTpyGhgDyAN6BwM8uMmra/kapOBRw30i+g=
+
+Name: assets/index.html
+SHA-256-Digest: YNsLFuqcHbEhFEsc+IDOBf93kkMneilMgw/XqbQYalA=
+
+Name: classes.dex
+SHA-256-Digest: J2xuWlm58xWIhItOXLFp49rVsOm4Fa9zvdnquskxhdY=
+
+Name: classes2.dex
+SHA-256-Digest: 6DoOXqw1jc5AHdEgQh2PB5G3HZQqSY2B5LyzmQrhpBk=
+
+Name: res/drawable-nodpi-v4/egramseva_logo.jpg
+SHA-256-Digest: 4dW1ApXCir+rBG6HKGTUuGu/m+4Xs/LZPO7a+XOHBmk=
+
+Name: res/drawable/ic_launcher_foreground.xml
+SHA-256-Digest: xr+1dTdGChpXjhCgZXR7TEAsUrcb5Fq6fJZLZmpPOnA=
+
+Name: res/mipmap-anydpi-v21/ic_launcher.xml
+SHA-256-Digest: 4t6ahyHojLN97qnZ6gQ0U5qQXYJII8Bj7TYn5qiOvzo=
+
+Name: res/mipmap-anydpi-v21/ic_launcher_round.xml
+SHA-256-Digest: WiaTRx6V/o27pnk619e3VXHCLxO7jYkMaxfWyWuZLNg=
+
+Name: res/mipmap-anydpi-v26/ic_launcher.xml
+SHA-256-Digest: AJYg0lexROzlydp/VZ1tY2pV91rcx8glUgHJFuqb0+c=
+
+Name: res/mipmap-anydpi-v26/ic_launcher_round.xml
+SHA-256-Digest: TwHk8zrBU3k1i5VetyJW24EsKdH6MzPDXqxGWHWINs0=
+
+Name: resources.arsc
+SHA-256-Digest: E3DcAYH3a95vemvq1JL3Wkl5I9l4JuFqNh5R4gJyPj4=
+
